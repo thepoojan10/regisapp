@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.slide {
+  padding: 20px;
+}
+
+.slide h2 {
+  margin-bottom: 20px;
+}
+
+.slide p {
+  margin-bottom: 20px;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+}
+
+.option {
+  margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="number"],
+textarea {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  width: 80%;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 20px;
+}
